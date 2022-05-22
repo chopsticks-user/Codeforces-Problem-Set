@@ -1,2 +1,3 @@
 # Codeforces-Python
-Solving problem on Codeforces.com using Python
+Solving problem on Codeforces.com using Python  
+https://codeforces.com/
