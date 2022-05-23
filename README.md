@@ -1,3 +1,3 @@
-# Codeforces-Python
-Solving problem on Codeforces.com using Python  
+# Codeforces-C++
+Solving problem on Codeforces.com using C++ 
 https://codeforces.com/
